@@ -5,7 +5,7 @@ I bridge the gap between heavy, high-performance computational mathematics and p
 
 - 🚀 Currently scaling Edge-AI automation systems and low-latency API architectures.
 - 🛠️ Deeply focused on Agentic AI frameworks (Google ADK, LangGraph, custom MCP servers).
-- ✉️ Reach me at: abhigrt14@gmail.com | [LinkedIn](www.linkedin.com/in/abhijeet-kumar-113929169) | [Portfolio](https://abhijeet14.vercel.app/)
+- ✉️ Reach me at: abhigrt14@gmail.com | [LinkedIn](https://www.linkedin.com/in/abhijeet-kumar-113929169) | [Portfolio](https://abhijeet14.vercel.app/)
 
 ---
 
