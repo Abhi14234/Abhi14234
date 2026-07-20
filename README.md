@@ -24,6 +24,6 @@ I bridge the gap between heavy, high-performance computational mathematics and p
 ## 📈 Engineering Analytics & Core Stats
 <!-- These use the widely recognized open-source github-readme-stats widgets to automate proof of work -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Abhijeet's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Abhi14234&show_icons=true&theme=tokyonight&count_private=true" alt="Abhijeet's GitHub Stats" height="180px"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhi14234&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px"/>
 </p>
